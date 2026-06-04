@@ -1,0 +1,6 @@
+[package]
+name = "ternary-scheduling-v2"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Advanced scheduling with ternary priorities"
