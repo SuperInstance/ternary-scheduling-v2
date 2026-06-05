@@ -98,3 +98,11 @@ This crate extends the basic scheduling model with resource management, deadline
 ## License
 
 MIT
+
+## See Also
+- **ternary-scheduling** — related
+- **ternary-sync** — related
+- **ternary-room** — related
+- **ternary-consensus** — related
+- **ternary-platoon** — related
+
